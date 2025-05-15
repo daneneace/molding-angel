@@ -1,0 +1,26 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url('background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  color: #fff;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(0,0,0,0.6);
+  margin: 20vh auto;
+  width: 80%;
+  border-radius: 10px;
+}
+
+footer {
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+  color: gold;
+}
